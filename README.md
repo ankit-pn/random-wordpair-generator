@@ -6,7 +6,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/see\_you\_in\_past" target="_blank">
+  <a href="https://twitter.com/see_you_in_past" target="_blank">
     <img alt="Twitter: see\_you\_in\_past" src="https://img.shields.io/twitter/follow/see\_you\_in\_past.svg?style=social" />
   </a>
 </p>
@@ -25,6 +25,7 @@ npm i random-wordpair-generator
 
 ```sh
 const wordlist = ('random-wordpair-generator'); 
+console.log(wordlist(5));
 ```
 
 ## Author
@@ -44,7 +45,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-<a href="https://www.patreon.com/83344479">
+<a href="https://www.patreon.com/user?u=83344479">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
