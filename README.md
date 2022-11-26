@@ -7,7 +7,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/see_you_in_past" target="_blank">
-    <img alt="Twitter: see\_you\_in\_past" src="https://img.shields.io/twitter/follow/see\_you\_in\_past.svg?style=social" />
+    <img alt="Twitter: see_you_in_past" src="https://img.shields.io/twitter/follow/see_you_in_past.svg?style=social" />
   </a>
 </p>
 
