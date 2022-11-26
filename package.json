@@ -1,11 +1,24 @@
 {
   "name": "random-wordpair-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate Random Word Pair ( Words that are common in general English).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "binarypain",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit-pn/random-wordpair-generator.git"
+  },
+  "keywords": [
+    "random",
+    "wordpair",
+    "generators"
+  ],
+  "bugs": {
+    "url": "https://github.com/ankit-pn/random-wordpair-generator/issues"
+  },
+  "homepage": "https://github.com/ankit-pn/random-wordpair-generator#readme"
 }
