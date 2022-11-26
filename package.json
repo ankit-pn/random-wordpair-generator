@@ -1,0 +1,11 @@
+{
+  "name": "random-wordpair-generator",
+  "version": "1.0.1",
+  "description": "Generate Random Word Pair ( Words that are common in general English).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "binarypain",
+  "license": "ISC"
+}
