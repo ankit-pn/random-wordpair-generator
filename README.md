@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> Generate random english word pairs ( Words that are used in common english ).
+> Generates random english word pairs out of a list of 7776 commonly used words.
 
 ### 🏠 [Homepage](https://github.com/ankit-pn/random-wordpair-generator)
 
