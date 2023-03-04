@@ -23,6 +23,19 @@ npm i random-wordpair-generator
 
 ## Usage
 
+1. Language learning: Your library could be used as a tool for language learning exercises. For example, learners could be presented with a random word pair (e.g., "cat" and "book"), and then be asked to create a sentence using both words.
+
+2. Creative writing: Your library could be used as a prompt for creative writing exercises. Writers could be presented with a random word pair (e.g., "moon" and "spoon"), and then be asked to write a story or poem that incorporates both words.
+
+3. Game development: Your library could be used in the development of word games, such as a game where players have to come up with a word that connects two random word pairs (e.g., "cat" and "book" might lead to the word "library").
+
+4. Idea generation: Your library could be used as a tool for generating ideas for a variety of purposes, such as brainstorming or problem-solving. For example, a group of colleagues working on a project could be presented with a random word pair (e.g., "coffee" and "map"), and then be asked to brainstorm ideas that relate to both words.
+
+
+
+
+## How to use
+
 ```sh
 const wordlist = ('random-wordpair-generator'); 
 console.log(wordlist(5));
